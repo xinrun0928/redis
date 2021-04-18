@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-aop:5.3.6">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/apache-maven-3.5.4/respository/org/springframework/spring-aop/5.3.6/spring-aop-5.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Program Files/Java/apache-maven-3.5.4/respository/org/springframework/spring-aop/5.3.6/spring-aop-5.3.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/apache-maven-3.5.4/respository/org/springframework/spring-aop/5.3.6/spring-aop-5.3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
